@@ -3,7 +3,7 @@
 
 A simple and easy to use encryption and decryption tool. Use this to encrypt messages within images.
 
-![](/pixelcryption/media/screeny.png)
+![](media/screeny.png)
 
 
 
