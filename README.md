@@ -1,8 +1,5 @@
 # pixelcryption
 👀👀👀
-<<<<<<< Updated upstream
-https://burnedsap.github.io/pixelcryption/
-=======
 
 A simple and easy to use encryption and decryption tool. Use this to encrypt messages within images.
 
@@ -38,5 +35,3 @@ v2 currently in development, see beta here: http://burnedsap.github.io/pixelcryp
 - [ ] New visual design
 - [ ] Add additional levels of encryption prior to image encryption
 - [ ] Offline/downloadable version
-
->>>>>>> Stashed changes
