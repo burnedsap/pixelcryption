@@ -3,6 +3,8 @@
 
 A simple and easy to use encryption and decryption tool. Use this to encrypt messages within images.
 
+![](/pixelcryption/media/screeny.png)
+
 
 
 v1 stable version: http://burnedsap.github.io/pixelcryption/v1/
